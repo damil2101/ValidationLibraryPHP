@@ -52,6 +52,7 @@ function validation() {
     return $error;
 }
 
+<<<<<<< Updated upstream
 
 // function that will check for an input with a corresponding type and return a message if the value doesnt match
 
@@ -84,4 +85,6 @@ function validation() {
             return false;
     }
 
+=======
+>>>>>>> Stashed changes
 }
